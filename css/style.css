@@ -21,7 +21,7 @@ a {
     text-decoration: none; }
 
 .text-black {
-  color: light blue !important; }
+  color: #000 !important; }
 
 .bg-black {
   background: #000 !important; }
